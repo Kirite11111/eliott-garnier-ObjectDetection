@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\eliott.garnier.ObjectDetection.WebApi.props" />
+</Project>

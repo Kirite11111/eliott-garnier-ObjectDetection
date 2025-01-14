@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "PpjxWvp8R7Syz/5WUMppVkRM98acZS4nNy+fu6WqzQ4=",
+  "Source": "eliott.garnier.ObjectDetection.WebApi",
+  "BasePath": "_content/eliott.garnier.ObjectDetection.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

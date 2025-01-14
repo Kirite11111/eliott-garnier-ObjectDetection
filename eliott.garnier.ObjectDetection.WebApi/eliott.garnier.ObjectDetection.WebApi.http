@@ -1,0 +1,7 @@
+@eliott.garnier.ObjectDetection.WebApi_HostAddress = http://localhost:5074
+
+
+GET {{eliott.garnier.ObjectDetection.WebApi_HostAddress}}/swagger/
+Accept: application/json
+
+###
