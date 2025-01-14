@@ -1,0 +1,13 @@
+C:\Users\eliot\RiderProjects\eliott.garnier.ObjectDetection\eliott.garnier.ObjectDetection\obj\Debug\net8.0\eliott.garnier.ObjectDetection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eliot\RiderProjects\eliott.garnier.ObjectDetection\eliott.garnier.ObjectDetection\obj\Debug\net8.0\eliott.garnier.ObjectDetection.AssemblyInfoInputs.cache
+C:\Users\eliot\RiderProjects\eliott.garnier.ObjectDetection\eliott.garnier.ObjectDetection\obj\Debug\net8.0\eliott.garnier.ObjectDetection.AssemblyInfo.cs
+C:\Users\eliot\RiderProjects\eliott.garnier.ObjectDetection\eliott.garnier.ObjectDetection\obj\Debug\net8.0\eliott.garnier.ObjectDetection.csproj.CoreCompileInputs.cache
+C:\Users\eliot\RiderProjects\eliott.garnier.ObjectDetection\eliott.garnier.ObjectDetection\obj\Debug\net8.0\eliott.garnier.ObjectDetection.sourcelink.json
+C:\Users\eliot\RiderProjects\eliott.garnier.ObjectDetection\eliott.garnier.ObjectDetection\bin\Debug\net8.0\eliott.garnier.ObjectDetection.deps.json
+C:\Users\eliot\RiderProjects\eliott.garnier.ObjectDetection\eliott.garnier.ObjectDetection\bin\Debug\net8.0\eliott.garnier.ObjectDetection.dll
+C:\Users\eliot\RiderProjects\eliott.garnier.ObjectDetection\eliott.garnier.ObjectDetection\bin\Debug\net8.0\eliott.garnier.ObjectDetection.pdb
+C:\Users\eliot\RiderProjects\eliott.garnier.ObjectDetection\eliott.garnier.ObjectDetection\obj\Debug\net8.0\eliott.garnier.ObjectDetection.dll
+C:\Users\eliot\RiderProjects\eliott.garnier.ObjectDetection\eliott.garnier.ObjectDetection\obj\Debug\net8.0\refint\eliott.garnier.ObjectDetection.dll
+C:\Users\eliot\RiderProjects\eliott.garnier.ObjectDetection\eliott.garnier.ObjectDetection\obj\Debug\net8.0\eliott.garnier.ObjectDetection.pdb
+C:\Users\eliot\RiderProjects\eliott.garnier.ObjectDetection\eliott.garnier.ObjectDetection\obj\Debug\net8.0\ref\eliott.garnier.ObjectDetection.dll
+C:\Users\eliot\RiderProjects\eliott.garnier.ObjectDetection\eliott.garnier.ObjectDetection\obj\Debug\net8.0\eliott.garnier.ObjectDetection.csproj.AssemblyReference.cache
