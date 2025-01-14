@@ -11,3 +11,4 @@ C:\Users\eliot\RiderProjects\eliott.garnier.ObjectDetection\eliott.garnier.Objec
 C:\Users\eliot\RiderProjects\eliott.garnier.ObjectDetection\eliott.garnier.ObjectDetection\obj\Debug\net8.0\eliott.garnier.ObjectDetection.pdb
 C:\Users\eliot\RiderProjects\eliott.garnier.ObjectDetection\eliott.garnier.ObjectDetection\obj\Debug\net8.0\ref\eliott.garnier.ObjectDetection.dll
 C:\Users\eliot\RiderProjects\eliott.garnier.ObjectDetection\eliott.garnier.ObjectDetection\obj\Debug\net8.0\eliott.garnier.ObjectDetection.csproj.AssemblyReference.cache
+C:\Users\eliot\RiderProjects\eliott.garnier.ObjectDetection\eliott.garnier.ObjectDetection\bin\Debug\net8.0\TinyYolo2_model.onnx

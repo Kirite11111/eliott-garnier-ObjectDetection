@@ -14,4 +14,10 @@
       <PackageReference Include="System.Drawing.Common" Version="9.0.0" />
     </ItemGroup>
 
+    <ItemGroup>
+      <None Update="TinyYolo2_model.onnx">
+        <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      </None>
+    </ItemGroup>
+
 </Project>
