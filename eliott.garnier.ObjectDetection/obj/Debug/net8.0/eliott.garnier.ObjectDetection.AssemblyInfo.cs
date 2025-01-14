@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("eliott.garnier.ObjectDetection")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+de87681ab46f6457f48b206422e9b74ef98102d2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cd984f8b346a9396fb2bb50e221385482cf4cbdc")]
 [assembly: System.Reflection.AssemblyProductAttribute("eliott.garnier.ObjectDetection")]
 [assembly: System.Reflection.AssemblyTitleAttribute("eliott.garnier.ObjectDetection")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
