@@ -1,0 +1,48 @@
+﻿name: CI Build and Publish
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  build:
+    name: Build, Test, and Publish
+    runs-on: windows-latest
+
+    steps:
+      # Étape 1 : Configuration de l'environnement
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      # Étape 2 : Installer le SDK .NET
+      - name: Setup .NET SDK
+        uses: actions/setup-dotnet@v3
+        with:
+          dotnet-version: 8.0.404
+
+      # Étape 3 : Restaurer les dépendances
+      - name: Restore dependencies
+        run: dotnet restore
+
+      # Étape 4 : Construire le projet
+      - name: Build solution
+        run: dotnet build --no-restore --configuration Release
+
+      # Étape 5 : Exécuter les tests unitaires
+      - name: Run unit tests
+        run: dotnet test --no-build --configuration Release
+
+      # Étape 6 : Publier le projet Console
+      - name: Publish Console Application
+        run: dotnet publish ./eliott.garnier.ObjectDetection.Console/eliott.Garnier.ObjectDetection.Console.csproj --configuration Release --output ./output --runtime win-x64 --self-contained true
+
+      # Étape 7 : Upload les artefacts de build
+      - name: Upload build artifacts
+        uses: actions/upload-artifact@v3
+        with:
+          name: ConsoleApp
+          path: ./output
